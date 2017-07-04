@@ -367,7 +367,7 @@
 	
 	  // auto-initialize plugin
 				$(function(){
-				 $('input[type=radio].star').rating();
+				 //$('input[type=radio].star').rating();
 				});
 	
 	
